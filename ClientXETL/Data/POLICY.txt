@@ -1,0 +1,4 @@
+1	HomeInsurance
+2	CarInsurance
+3	HealthInsurance
+4	TravelInsurance

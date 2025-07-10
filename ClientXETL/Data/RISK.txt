@@ -1,0 +1,8 @@
+1	RoofDamage	Windstorm	1	123 Main St	CID123	45.1234	-93.1234
+2	Flooding	Flood	1	456 Elm St	CID124	45.5678	-93.5678
+3	FireDamage	Fire	2	789 Oak Dr	CID125	44.9876	-92.9876
+4	Theft	Hurricane	2	101 Pine Rd	CID126	44.5432	-92.5432
+5	Earthquake	Flood	3	202 Maple Ln	CID127	46.4567	-94.4567
+6	MedicalEmergency	Fire	3	404 Birch Ave	CID128	46.6543	-94.6543
+7	FlightCancellation	Windstorm	4	808 Ash Ct	CID129	47.0000	-95.0000
+8	LostLuggage	Flood	4	909 Cedar Pl	CID130	47.1111	-95.1111
